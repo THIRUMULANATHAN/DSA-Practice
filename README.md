@@ -1,144 +1,83 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1e90ff&height=200&section=header&text=DSA%20Practice%20Repository&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# DSA Practice Repository
 
-<p align="center">
-  <b>A complete collection of Data Structures & Algorithms implemented in C, C++, Java, and Python.</b><br/>
-  <i>Structured | Multi-Language | Placement-Focused | Clean & Revisable</i>
-</p>
+A complete collection of Data Structures and Algorithms implemented in C, C++, Java, and Python.  
+This repository is structured for placement preparation, concept revision, and coding practice.
 
 ---
 
-## 📑 Table of Contents
-- [📘 About](#-about)
-- [📂 Folder Structure](#-folder-structure)
-- [🚀 Topics Covered](#-topics-covered)
-- [🛠️ Languages & Tools](#️-languages--tools)
-- [🤝 Contributions](#-contributions)
-- [📌 Author](#-author)
+## About
+
+This repository contains:
+
+- Core DSA implementations  
+- Graph algorithms  
+- Tree operations  
+- Expression conversion problems  
+- C++ STL practice  
+- Revision modules  
+- General coding exercises  
+
+The goal is to maintain a clean, organized reference for improving problem-solving skills and preparing for interviews.
 
 ---
 
-## 📘 About
-This repository is a **comprehensive DSA practice collection** designed to strengthen problem-solving skills through structured coding practice in:
+## Folder Structure
 
-- **C**
-- **C++**
-- **Java**
-- **Python**
-
-It includes **core DSA implementations**, **STL usage**, **graph algorithms**, **tree operations**, and **revision-focused folders** tailored for **interviews, placements, and competitive programming**.
-
----
-
-## 📂 Folder Structure
-
-```txt
 DSA-Practice/
 │
-├── .vscode/                 → VS Code configurations
+├── .vscode/ — VS Code settings  
+├── C_Codes/ — Basic C programs  
+├── DSA/ — Core data structures  
+│   ├── Linked Lists  
+│   ├── Stacks & Queues  
+│   ├── Trees & BST  
+│   ├── Hashing methods  
+│   └── Miscellaneous  
 │
-├── C_Codes/                 → Basic C programs
+├── DSA_Problems/ — Categorized DSA questions  
+│   ├── Graph (BFS, DFS, Dijkstra)  
+│   ├── Linked_List  
+│   ├── Stacks  
+│   └── Trees  
 │
-├── DSA/                     → Core Data Structures
-│   ├── Linked Lists
-│   ├── Stacks & Queues
-│   ├── Trees & BST
-│   ├── Hashing (Linear, Quadratic, Double)
-│   └── Miscellaneous
-│
-├── DSA_Problems/            → Categorized DSA Problems
-│   ├── Graph/
-│   │   ├── Adjacency List
-│   │   ├── BFS / Dijkstra
-│   │   └── DFS / Traversal
-│   ├── Linked_List/
-│   ├── Stacks/
-│   └── Trees/
-│
-├── Programs/                → General coding practice (C++, Java, Python)
-│
-├── Revision/                → Quick revision problems
-│
-├── STL/                     → C++ STL mastery (Vectors, Sets, Maps, PQ)
-│
-├── Streams/                 → Java Streams API practice
-│
-└── Workplace/               → Temporary workspace files
-🚀 Topics Covered
-✔ Core Data Structures
-Arrays, Strings
+├── Programs/ — General C++, Java, Python programs  
+├── Revision/ — Quick revision problems  
+├── STL/ — C++ STL (vectors, sets, maps, priority queue)  
+├── Streams/ — Java Streams API practice  
+└── Workplace/ — Temporary working files  
 
-Linked Lists (SLL, DLL, CLL)
+---
 
-Stacks
+## Topics Covered
 
-Queues
+- Arrays & Strings  
+- Linked Lists (SLL, DLL, CLL)  
+- Stacks and Queues  
+- Trees, BST, Tree Construction  
+- Graphs, BFS, DFS, Dijkstra  
+- Hashing & Probing  
+- Expression conversion (infix, postfix, prefix)  
+- STL usage and algorithm library  
 
-Trees & Binary Search Trees
+---
 
-Hashing + Collision Resolution Techniques
+## Languages Used
 
-✔ Advanced Algorithms
-BFS, DFS
+- C  
+- C++  
+- Java  
+- Python  
 
-Dijkstra’s Algorithm
+---
 
-Level Order Tree Construction
+## Contributions
 
-Pathfinding Algorithms
+This is a personal practice repository, but improvements and suggestions are welcome.  
+Feel free to open issues or submit pull requests.
 
-Graph Representation (Adjacency List / Matrix)
+---
 
-✔ Expression Conversion Problems
-Infix → Postfix
+## Author
 
-Infix → Prefix
-
-Prefix → Postfix
-
-Postfix → Infix
-
-Expression Evaluators
-
-✔ C++ STL Modules
-Vectors
-
-Maps
-
-Sets
-
-Priority Queue
-
-Deque
-
-🛠️ Languages & Tools
-💻 Languages
-
-
-
-
-
-⚙ Tools
-
-
-
-
-
-🤝 Contributions
-This repository is a personal learning space, but contributions, suggestions, and alternate approaches are always welcome.
-
-Feel free to:
-
-Open issues
-
-Submit pull requests
-
-Share optimizations
-
-📌 Author
-Thirumulanathan
-🔗 GitHub: THIRUMULANATHAN
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:111111&height=120&section=footer" /> </p> ```
+**Thirumulanathan**  
+GitHub: https://github.com/THIRUMULANATHAN
